@@ -1,14 +1,5 @@
 # CS-330
-    How do I approach designing software?
-        What new design skills has your work on the project helped you to craft?
-        What design process did you follow for your project work?
-        How could tactics from your design approach be applied in future work?
 
-    How do I approach developing programs?
-        What new development strategies did you use while working on your 3D scene?
-        How did iteration factor into your development?
-        How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+When designing software I do my best to write the code to be as modular as possible.  Creating modular codes helps in many ways, reducing the total lines of code, gives more flexibility to create dedicated functions that specialize in one task, and it's easier for testing.  If you are able to keep your code modular and clean, when issues crop up it's easier to comparmentalize the code to find where the source of the error is coming from.
 
-    How can computer science help me in reaching my goals?
-        How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-        How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+The biggest takeaway from working with computational graphics is how we managed the memory while we were rendering our scene.  Beginning to learn about managing the memory as we render or execute code will have a big impact on the quality of our software in the future.
